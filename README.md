@@ -1,5 +1,9 @@
-# sofle-keyboard
+# SofleKeyboard-English-Spanish
 
-Keymap para teclado sofle v2 RGB en el idioma Inglés con la posibilidad de escribir caracteres ñ y tildes sin salir de la posición de touch typing (En proceso).
+Configuración para teclado Sofle v2 RGB (Windows QWERTY).
 
-![Keymap](Keymap.pdf)
+Utilizar el idioma Inglés con la posibilidad de escribir caracteres Ñ y tildes (á é í ó ú) sin salir de la posición de touch typing (En proceso)
+
+![Keymap-1](keymap/keymap-1.png)
+![Keymap-2](keymap/keymap-2.png)
+![Keymap-3](keymap/keymap-3.png)
